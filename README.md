@@ -1,6 +1,9 @@
 # GlobalTime
 A Web-Based app to see global time any time
 
+# Deployed App
+(https://globaltimebalatos.streamlit.app/)
+
 # How to Run Localy
 -Prerequisites
   1) Git: Ensure that Git is installed on your system.
